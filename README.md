@@ -46,6 +46,7 @@ The collection of Documents, Videos, Presentations, and other materials.
 
 ## VMware
 
+* [vBrownBag - Accelerate your microsegmentation deployment with vRNI](https://www.youtube.com/watch?v=5O8CxiCkmXg)
 * [VMworld: NSX on Cisco Infrastructure](https://www.youtube.com/watch?v=Q4PY6tfuySE)
 * [SysOps/DevOps #84 - Wspomaganie DevOps w środowisku VMware/OpenSource](https://www.youtube.com/watch?v=vDX9UJBUmBA)
 
@@ -58,6 +59,7 @@ The collection of Documents, Videos, Presentations, and other materials.
 
 ## PLNOG
 
+* [PLNOG Live 2020: Prościej się już nie da utrzymać sieć operatorską - razem z Łukasz Bromirski (Cisco)](https://www.youtube.com/watch?v=GKdCCpiOZd4)
 * [PLNOG 23 - Budowanie infrastruktury sieciowej w AWS od A do Z](https://www.youtube.com/watch?v=5gdBZSXyzQ4)
 * [PLNOG 20 - 10 lat ewolucji sieci Data Center - Myśli zebrane](https://www.youtube.com/watch?v=btOV0HIBA5A)
 * [PLNOG 19 - Anatomia VXLAN](https://www.youtube.com/watch?v=s6nyj1pS4BE)
@@ -68,10 +70,14 @@ The collection of Documents, Videos, Presentations, and other materials.
 * [PLNOG 15 - Rzecz o opóźnieniach](https://www.youtube.com/watch?v=3uctKFt1j88)
 * [PLNOG 13 - Autonomic Networking – Pierwsze kroki](https://www.youtube.com/watch?v=QQsNsVo8aj0)
 * [PLNOG 12 - Po co właściwie cały ten SDN? - razem z Emil Gągała (Juniper)](https://www.youtube.com/watch?v=WJNrDfekvr8)
+* [PLNOG 10 - Rekomendowane rozwiązania dla transmisji multicast](https://www.youtube.com/watch?v=5CdzfAEIHD4)
 * [PLNOG 8 - Skalowalność w sieciach IP NGN – protokół BGP](https://www.youtube.com/watch?v=uHLPiUXgh5o)
 * [PLNOG 7 - Jak wygląda mój pakiet MPLS?](https://www.youtube.com/watch?v=BEXLPUrf2Sc)
 * [PLNOG 6 - Praktyczne aspekty implementacji IGP](https://www.youtube.com/watch?v=8ej7e_Sfat8)
 * [PLNOG 4 - Podstawy MPLS](https://www.youtube.com/watch?v=4UITVK6qK_w)
+* [PLNOG 3 - Realizacja styku międzyoperatorskiego dla usług L2/L3 VPN](https://www.youtube.com/watch?v=54QVyJsj7l0)
+
+* [infraXstructure 2016 - SDN w praktyce](https://www.youtube.com/watch?v=O4wQ5pql990)
 
 # Other
 
