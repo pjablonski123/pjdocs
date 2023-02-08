@@ -76,7 +76,6 @@ The collection of Documents, Videos, Presentations, and other materials.
 * [PLNOG 6 - Praktyczne aspekty implementacji IGP](https://www.youtube.com/watch?v=8ej7e_Sfat8)
 * [PLNOG 4 - Podstawy MPLS](https://www.youtube.com/watch?v=4UITVK6qK_w)
 * [PLNOG 3 - Realizacja styku międzyoperatorskiego dla usług L2/L3 VPN](https://www.youtube.com/watch?v=54QVyJsj7l0)
-
 * [infraXstructure 2016 - SDN w praktyce](https://www.youtube.com/watch?v=O4wQ5pql990)
 
 # Other
