@@ -7,14 +7,21 @@ The collection of Documents, Videos, Presentations, and other materials.
 ## Kubernetes
 
 * [Kubernetes Threat Model and Risk Management](https://www.isc2.org/News-and-Events/Webinars/EMEA-Webinars?commid=564909#)
-* [Admission Controller](https://www.youtube.com/ watch?v=fE-mUJkyGdw)
+* [CNCF KCD Prisma Cloud Admission Control - 3 ways to control K8s deplyments](https://www.youtube.com/watch?v=o0JZJhVQSwI)
+* [Admission Controller](https://www.youtube.com/watch?v=fE-mUJkyGdw)
+* [SysOps/DevOps #369 - "Admission Controller w Kubernetes](https://www.youtube.com/watch?v=fE-mUJkyGdw)
+* [PLNOG ONLINE 3: Podstawy sieci w Kubernetes](https://www.youtube.com/watch?v=g0E0fcyLc1A)
 
 ## DevSecOps
 
-* [DevSecOps](https://youtu.be/esi80IIlzxQ?t=1941)
+* [SecOps #35 - Zagrożenia i zapobieganie atakom w środowisku kontenerowym i serverless](https://www.youtube.com/watch?v=dbXM-QGPsw0)
+* [SysOps/DevOps #303 - Bezpieczeństwo na etapie pisania kodu, budowy aplikacji i jej integracji](https://youtu.be/esi80IIlzxQ)
+* [SysOps/DevOps #345 - Open Mike - Zbuduj bezpieczeństwo DevOps](https://www.youtube.com/watch?v=xn5XLjivq4A)
+* [SysOps/DevOps #397 - SysOpsowe i DevOpsowe podsumowanie roku](https://www.youtube.com/watch?v=uUQv2SL3mV8)
 
 ## Prisma Cloud
 
+* [SecOps #33 - Zarządzanie podatnościami i bezpieczeństwem w chmurze publicznej](https://www.youtube.com/watch?v=sfYyTPAvh60)
 * [CNNS FW rule generator](https://github.com/se-cloud-emea/prisma-cnns)
 
 ## Security
@@ -25,7 +32,8 @@ The collection of Documents, Videos, Presentations, and other materials.
 
 ## Use Cases
 
-* [AWS Serverless Days](https://www.youtube.com/watch?v=raYZ78d9ZMQ)
+* [AWS Serverless Days - Part 1](https://www.youtube.com/watch?v=raYZ78d9ZMQ)
+* [AWS Serverless Days - Part 2](https://www.youtube.com/watch?v=jW9hpqrRIsM)
 
 ## Configuration Tips
 
@@ -40,6 +48,7 @@ The collection of Documents, Videos, Presentations, and other materials.
 ## VMware
 
 * [VMworld: NSX on Cisco Infrastructure](https://www.youtube.com/watch?v=Q4PY6tfuySE)
+* [SysOps/DevOps #84 - Wspomaganie DevOps w środowisku VMware/OpenSource](https://www.youtube.com/watch?v=vDX9UJBUmBA)
 
 ## Cisco
 
