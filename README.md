@@ -8,8 +8,7 @@ The collection of Documents, Videos, Presentations, and other materials.
 
 * [Kubernetes Threat Model and Risk Management](https://www.isc2.org/News-and-Events/Webinars/EMEA-Webinars?commid=564909#)
 * [CNCF KCD Prisma Cloud Admission Control - 3 ways to control K8s deplyments](https://www.youtube.com/watch?v=o0JZJhVQSwI)
-* [Admission Controller](https://www.youtube.com/watch?v=fE-mUJkyGdw)
-* [SysOps/DevOps #369 - "Admission Controller w Kubernetes](https://www.youtube.com/watch?v=fE-mUJkyGdw)
+* [SysOps/DevOps #369 - Admission Controller w Kubernetes](https://www.youtube.com/watch?v=fE-mUJkyGdw)
 * [PLNOG ONLINE 3: Podstawy sieci w Kubernetes](https://www.youtube.com/watch?v=g0E0fcyLc1A)
 
 ## DevSecOps
@@ -37,13 +36,13 @@ The collection of Documents, Videos, Presentations, and other materials.
 
 ## Configuration Tips
 
-- SRC/DST Check is disabled on eni123
+- TBD
 
 # Networking
 
 ## Cloud
 
-- L7/DPI protection using 3rd party security appliances.
+* ff
 
 ## VMware
 
@@ -56,3 +55,26 @@ The collection of Documents, Videos, Presentations, and other materials.
 * [Adaptive Code Modulation](https://www.cisco.com/c/en/us/td/docs/wireless/asr_901/Configuration/Guide/b_asr901-scg/b_asr901-scg_chapter_0100010.html#ref_1113216)
 * [Unified MPLS EEM scripts](link)
 * [ASA clustering over OTV](https://www.dropbox.com/s/vdsz62eqi0hk26c/DC-ASA-Cluster-pijablon-v1.0.pdf?dl=0)
+
+## PLNOG
+
+* [PLNOG 23 - Budowanie infrastruktury sieciowej w AWS od A do Z](https://www.youtube.com/watch?v=5gdBZSXyzQ4)
+* [PLNOG 20 - 10 lat ewolucji sieci Data Center - Myśli zebrane](https://www.youtube.com/watch?v=btOV0HIBA5A)
+* [PLNOG 19 - Anatomia VXLAN](https://www.youtube.com/watch?v=s6nyj1pS4BE)
+* [PLNOG 18 - Co utrudnia życie projektanta sieci?](https://www.youtube.com/watch?v=LT9iY2YZ65w)
+* [PLNOG 18 - Co i jak można zautomatyzować u operatora](https://www.youtube.com/watch?v=oSnpTyPWWd8)
+* [PLNOG 17 - Sieci nakładkowe w Data Center - uproszczenie, czy utrudnienie?](https://www.youtube.com/watch?v=2vvlPtgUBHg)
+* [PLNOG 17 - Jak zwiększyć bezpieczeństwo w Data Center? Demo funkcjonalności NSX](https://www.youtube.com/watch?v=M0WZFL48-Io)
+* [PLNOG 15 - Rzecz o opóźnieniach](https://www.youtube.com/watch?v=3uctKFt1j88)
+* [PLNOG 13 - Autonomic Networking – Pierwsze kroki](https://www.youtube.com/watch?v=QQsNsVo8aj0)
+* [PLNOG 12 - Po co właściwie cały ten SDN? - razem z Emil Gągała (Juniper)](https://www.youtube.com/watch?v=WJNrDfekvr8)
+* [PLNOG 8 - Skalowalność w sieciach IP NGN – protokół BGP](https://www.youtube.com/watch?v=uHLPiUXgh5o)
+* [PLNOG 7 - Jak wygląda mój pakiet MPLS?](https://www.youtube.com/watch?v=BEXLPUrf2Sc)
+* [PLNOG 6 - Praktyczne aspekty implementacji IGP](https://www.youtube.com/watch?v=8ej7e_Sfat8)
+* [PLNOG 4 - Podstawy MPLS](https://www.youtube.com/watch?v=4UITVK6qK_w)
+
+# Other
+
+## ML/AI
+
+- [PLNOG Online: Praktyczny wstęp do uczenia maszynowego oraz sieci neuronowych](https://www.youtube.com/watch?v=68fHRJR9kuk)
